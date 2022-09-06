@@ -42,7 +42,7 @@ button.mediatext {
 }
 
 button.mediatext:hover {
-  color: #5f5f5f;
+  background-color: #e2e6ea;
 }
 
 .mediatext {
@@ -71,6 +71,7 @@ input.content::placeholder {
   background-image: url(/assets/edit-regular.svg);
   background-repeat: no-repeat;
   background-size: auto;
+  padding-left: 25px;
 }
 
 div.card {
