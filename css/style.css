@@ -110,6 +110,12 @@ li {
 
   color: #5f5f5f;
 }
+.baslik{
+  color: #212529;
+}
+.baslik:hover{
+  color: #0290fc;
+}
 .hoverli{
   background-color: white;
 }
@@ -124,7 +130,6 @@ button.ref {
 button.ref:hover {
   color: #5f5f5f;
 }
-
 .postphoto {
   border-radius: 50%;
   width: 50px;
