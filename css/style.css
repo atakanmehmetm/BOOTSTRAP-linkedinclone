@@ -115,6 +115,7 @@ li {
 }
 .hoverli:hover{
   background-color: rgba(0, 0, 0, 0.04);
+  opacity: 0.9;
 }
 button.ref {
   color: white;
